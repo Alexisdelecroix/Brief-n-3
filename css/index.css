@@ -1,5 +1,13 @@
+@font-face {
+    font-family: "Garet-book";
+    src: url(/Brief-n-3/police/Garet-Book.ttf) format(truetype);
+}
+
+
+
 body{
     margin-top: 0;
+    font-family: "Garet-book";
     
    
 }
@@ -13,6 +21,7 @@ body{
     height: 170px;
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 50px;
 
 }
 
