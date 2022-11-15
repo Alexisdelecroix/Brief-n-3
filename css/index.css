@@ -1,0 +1,148 @@
+body{
+    margin-top: 0;
+    
+   
+}
+
+.position_haut_de_page{
+    
+    margin-top: 30px;
+    background-color: #175e92;
+    color: white;
+    border-radius: 150px 150px 150px 150px;
+    height: 170px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#position_photo_titre
+{
+    display: flex;
+    gap: 60px;
+ 
+    
+}
+#logo{
+    height: 170px;
+    border-radius: 50%;
+
+
+}
+
+#position_nom{
+    margin-top: 10px;
+   font-size: 8vh;
+   margin-bottom: 5px;
+   font-weight: normal;
+    
+}
+
+#position-metier{
+    margin-bottom: 10px;
+    margin-left: 500px;
+    font-weight: normal;
+    
+}
+
+
+.etiquette{
+color: white;
+width: 130px;
+background-color: #175e92;
+padding-left: 25px;
+border-radius: 15px 15px 15px 15px;
+font-weight: normal;
+}
+
+#design_tel{
+
+color: #175e92;
+
+}
+
+#design_mail{
+  
+    color: #175e92;
+    
+    }
+
+    #design_git{
+        
+        color: #175e92;
+        
+        }
+
+        #design_link{
+            
+            color: #175e92;
+            
+            }
+
+
+
+.flex{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.flex2{
+    display: flex;
+}
+
+#position_block_gauche{
+
+    margin-right: 100px;
+}
+
+#position_text_principal{
+
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+.colonne_gauche{
+    margin-left: 25px;
+    line-height: 20px;
+}
+
+.colonne_gauche2{
+    line-height: 30px;
+    width: 400px;
+    
+}
+
+.colonne_gauche3{
+    line-height: 30px;
+    width: 300px;
+    
+}
+
+#espacement{
+    margin-bottom: 10px;
+    margin-top: 0px;
+} 
+#espacement2{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.etiquette_titre{
+    color: white;
+width: 100%;
+background-color: #175e92;
+padding-left: 25px;
+border-radius: 15px 15px 15px 15px;
+height: 30px;
+font-weight: normal;
+text-align: center;
+}
+
+h3{
+    padding-top:5px;
+}
+
+.position_liste{
+    margin-left: 20px;
+}
